@@ -70,7 +70,7 @@ definitions:
         type: "string"
     xml:
       name: "Tag"
-  Pet:
+  Pot:
     type: "object"
     required:
     - "name"
